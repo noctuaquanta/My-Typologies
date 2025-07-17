@@ -8,35 +8,43 @@ Links:
 Created: 2025-07-01T05:07:50
 ---
 > [!Typology]
-> 𝙄𝙉𝙏𝙋 - 5𝙬4 - 𝙎𝙊5 - 𝙋541 - 𝙄𝙉(𝙏) - 𝙄𝙇𝙄-𝘾𝙉𝘿𝙃-𝙏 [𝙎𝙃𝙎] - 𝙄𝙇𝙀 [𝙎𝘾𝙎] - 𝙇²𝙑³𝙀⁴𝙁² - 𝙑𝘽𝙉𝙋 - 𝙈𝙚𝙡𝙖𝙣𝙘𝙝𝙤𝙡𝙞𝙘-𝙋𝙝𝙡𝙚𝙜𝙢𝙖𝙩𝙞𝙘 - 𝙍𝙘𝙤𝙚|𝙄| - 𝙏𝙧𝙪𝙚 𝙉𝙚𝙪𝙩𝙧𝙖𝙡 - 𝙏𝙝𝙚 𝙎𝙖𝙜𝙚 - 𝙏𝙝𝙚 𝙃𝙚𝙧𝙢𝙞𝙩 (𝙄𝙓)
+> ### 𝙄𝙉𝙏𝙋 - 5𝙬4 - 𝙎𝙊5 - 𝙋541 - 𝙄𝙉(𝙏) - 𝙄𝙇𝙄-𝘾𝙉𝘿𝙃-𝙏 [𝙎𝙃𝙎] - 𝙄𝙇𝙀 [𝙎𝘾𝙎] - 𝙇²𝙑³𝙀⁴𝙁² - 𝙑𝘽𝙉𝙋 - 𝙈𝙚𝙡𝙖𝙣𝙘𝙝𝙤𝙡𝙞𝙘-𝙋𝙝𝙡𝙚𝙜𝙢𝙖𝙩𝙞𝙘 - 𝙍𝙘𝙤𝙚|𝙄| - 𝙏𝙧𝙪𝙚 𝙉𝙚𝙪𝙩𝙧𝙖𝙡 - 𝙏𝙝𝙚 𝙎𝙖𝙜𝙚 - 𝙏𝙝𝙚 𝙃𝙚𝙧𝙢𝙞𝙩 (𝙄𝙓)
 
-##### Socionics, Jungian, MBTI
+### Socionics, Jungian, MBTI
 ---
 **SHS:** ILI-CNDH-T
+
 **SCS:** ILE-Yin
+
 **Jungian:** IN(T) (Ni+Ti)
+
 **MBTI:** INTP
 
-##### Enneagram
+### Enneagram
 ---
 **Naranjo:** Social 5 (SO5)
+
 **Ichazo:** Point 5, 541
 
-##### Psychosophy + Temperaments
+### Psychosophy + Temperaments
 ---
 **PY (SoL):** LVEF
+
 **PY Subtypes:** L²V³E⁴F²
+
 **Temperament:** Melancholic-Phlegmatic
 
-##### Trait Theory / Misc
+### Trait Theory / Misc
 ---
 **Big 5:** RCOEI
+
 **SLOAN:** Rcoe|I|
+
 **Temporistics:** VBNP
+
 **Moral Alignment:** True Neutral
 
-#### Works Cited
----
+## Works Cited
 * “ILE Characteristic” (Classical Socionics): https://augustaproject.wordpress.com/ile-characteristic/
 * *The Enneagrams of the Fixations: The Original Teachings* by Oscar Ichazo: https://docs.google.com/document/d/1Puteue12lR_8YWmNfpOFrhutLtnUbbZEvAPM5za2T10/edit?tab=t.0
 * *The Enneagrams of the Divine Forms: Perfect, Eternal, Unchanging Truths* by Oscar Ichazo: https://docs.google.com/document/d/1GzIWVuKR6rpLgznI8T8RfU-BkBWHWcufQZF4oBKUioE/edit?usp=sharing
